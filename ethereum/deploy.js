@@ -5,7 +5,7 @@ const compiledFactory = require('./compiled/CampaignFactory.json');
 const provider = new HDWalletProvider(
 
   'express keep oppose paper typical apology lyrics cup distance goddess garment chef',
-  'https://rinkeby.infura.io/v3/49f0969f9d9a49f7adafd73089ce0fa5'
+  'https://goerli.infura.io/v3/dccf17533fef44b382c60c4a4a3bc963'
   
 );
 const web3 = new Web3(provider);
